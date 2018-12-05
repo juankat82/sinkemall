@@ -1,0 +1,132 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/juan/AndroidStudioProjects/SinkEmAll/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/juan/AndroidStudioProjects/SinkEmAll/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/juan/AndroidStudioProjects/SinkEmAll/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/juan/AndroidStudioProjects/SinkEmAll/app/src/main/AndroidManifest.xml:2:1-27:12
+MERGED from [com.android.support:recyclerview-v7:27.0.1] /home/juan/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.1.aar/2c1a45559840ca372fee85f04e14f195/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.GrenderG:Toasty:1.2.8] /home/juan/.gradle/caches/transforms-1/files-1.1/Toasty-1.2.8.aar/6238e375c65e9ffd04a9608a179a26b7/AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/juan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/f6fa28e20105e00ea146f1845f2abd30/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/juan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/15e1f0a5aac4a4389c1d1d230cda2f6d/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.0.2] /home/juan/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/bfd70acabbc8f729dcf5911773e3d274/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/juan/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/08fb5a9ecc2bf3ea774fa3db872f1928/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/juan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/e521ef2d74cc33aa547ae0737804da3a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/juan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/5450ded6f56ad8c1810cfa8b1f761cd3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/juan/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/207867c50d84bf160f6229e2ce5801f0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] /home/juan/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/ce54e02b8c06a2deca2eb8985163b75b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/juan/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/9bfb13a67b694e96ffe159f37883372f/AndroidManifest.xml:17:1-24:12
+INJECTED from /home/juan/AndroidStudioProjects/SinkEmAll/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/juan/AndroidStudioProjects/SinkEmAll/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/juan/AndroidStudioProjects/SinkEmAll/app/src/main/AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from /home/juan/AndroidStudioProjects/SinkEmAll/app/src/main/AndroidManifest.xml:3:5-41
+		INJECTED from /home/juan/AndroidStudioProjects/SinkEmAll/app/src/main/AndroidManifest.xml
+		INJECTED from /home/juan/AndroidStudioProjects/SinkEmAll/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/juan/AndroidStudioProjects/SinkEmAll/app/src/main/AndroidManifest.xml
+		ADDED from /home/juan/AndroidStudioProjects/SinkEmAll/app/src/main/AndroidManifest.xml:2:1-27:12
+		INJECTED from /home/juan/AndroidStudioProjects/SinkEmAll/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/juan/AndroidStudioProjects/SinkEmAll/app/src/main/AndroidManifest.xml
+		ADDED from /home/juan/AndroidStudioProjects/SinkEmAll/app/src/main/AndroidManifest.xml:2:1-27:12
+		INJECTED from /home/juan/AndroidStudioProjects/SinkEmAll/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/juan/AndroidStudioProjects/SinkEmAll/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#com.android.launcher.permission.INSTALL_SHORTCUT
+ADDED from /home/juan/AndroidStudioProjects/SinkEmAll/app/src/main/AndroidManifest.xml:4:5-88
+	android:name
+		ADDED from /home/juan/AndroidStudioProjects/SinkEmAll/app/src/main/AndroidManifest.xml:4:22-85
+uses-permission#com.android.launcher.permission.UNINSTALL_SHORTCUT
+ADDED from /home/juan/AndroidStudioProjects/SinkEmAll/app/src/main/AndroidManifest.xml:5:5-90
+	android:name
+		ADDED from /home/juan/AndroidStudioProjects/SinkEmAll/app/src/main/AndroidManifest.xml:5:22-87
+application
+ADDED from /home/juan/AndroidStudioProjects/SinkEmAll/app/src/main/AndroidManifest.xml:6:5-25:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/juan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/15e1f0a5aac4a4389c1d1d230cda2f6d/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/juan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/15e1f0a5aac4a4389c1d1d230cda2f6d/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /home/juan/AndroidStudioProjects/SinkEmAll/app/src/main/AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from /home/juan/AndroidStudioProjects/SinkEmAll/app/src/main/AndroidManifest.xml:9:9-41
+	android:roundIcon
+		ADDED from /home/juan/AndroidStudioProjects/SinkEmAll/app/src/main/AndroidManifest.xml:10:9-51
+	android:icon
+		ADDED from /home/juan/AndroidStudioProjects/SinkEmAll/app/src/main/AndroidManifest.xml:8:9-40
+	android:allowBackup
+		ADDED from /home/juan/AndroidStudioProjects/SinkEmAll/app/src/main/AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from /home/juan/AndroidStudioProjects/SinkEmAll/app/src/main/AndroidManifest.xml:12:9-40
+activity#com.juan.android.sinkemall.SinkEmAllActivity
+ADDED from /home/juan/AndroidStudioProjects/SinkEmAll/app/src/main/AndroidManifest.xml:13:9-20:20
+	android:noHistory
+		ADDED from /home/juan/AndroidStudioProjects/SinkEmAll/app/src/main/AndroidManifest.xml:13:53-77
+	android:name
+		ADDED from /home/juan/AndroidStudioProjects/SinkEmAll/app/src/main/AndroidManifest.xml:13:19-52
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/juan/AndroidStudioProjects/SinkEmAll/app/src/main/AndroidManifest.xml:14:13-17:29
+action#android.intent.action.MAIN
+ADDED from /home/juan/AndroidStudioProjects/SinkEmAll/app/src/main/AndroidManifest.xml:15:17-68
+	android:name
+		ADDED from /home/juan/AndroidStudioProjects/SinkEmAll/app/src/main/AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/juan/AndroidStudioProjects/SinkEmAll/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /home/juan/AndroidStudioProjects/SinkEmAll/app/src/main/AndroidManifest.xml:16:27-74
+meta-data#android.app.shortcuts
+ADDED from /home/juan/AndroidStudioProjects/SinkEmAll/app/src/main/AndroidManifest.xml:18:13-19:53
+	android:resource
+		ADDED from /home/juan/AndroidStudioProjects/SinkEmAll/app/src/main/AndroidManifest.xml:19:17-50
+	android:name
+		ADDED from /home/juan/AndroidStudioProjects/SinkEmAll/app/src/main/AndroidManifest.xml:18:24-60
+activity#com.juan.android.sinkemall.MainMenuActivity
+ADDED from /home/juan/AndroidStudioProjects/SinkEmAll/app/src/main/AndroidManifest.xml:21:9-53
+	android:name
+		ADDED from /home/juan/AndroidStudioProjects/SinkEmAll/app/src/main/AndroidManifest.xml:21:19-51
+activity#com.juan.android.sinkemall.MainGameActivity
+ADDED from /home/juan/AndroidStudioProjects/SinkEmAll/app/src/main/AndroidManifest.xml:22:9-53
+	android:name
+		ADDED from /home/juan/AndroidStudioProjects/SinkEmAll/app/src/main/AndroidManifest.xml:22:19-51
+activity#com.juan.android.sinkemall.MyFinalBoard
+ADDED from /home/juan/AndroidStudioProjects/SinkEmAll/app/src/main/AndroidManifest.xml:23:9-49
+	android:name
+		ADDED from /home/juan/AndroidStudioProjects/SinkEmAll/app/src/main/AndroidManifest.xml:23:19-47
+activity#com.juan.android.sinkemall.RecordEnterActivity
+ADDED from /home/juan/AndroidStudioProjects/SinkEmAll/app/src/main/AndroidManifest.xml:24:9-56
+	android:name
+		ADDED from /home/juan/AndroidStudioProjects/SinkEmAll/app/src/main/AndroidManifest.xml:24:19-54
+uses-sdk
+INJECTED from /home/juan/AndroidStudioProjects/SinkEmAll/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/juan/AndroidStudioProjects/SinkEmAll/app/src/main/AndroidManifest.xml
+INJECTED from /home/juan/AndroidStudioProjects/SinkEmAll/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:recyclerview-v7:27.0.1] /home/juan/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.1.aar/2c1a45559840ca372fee85f04e14f195/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.1] /home/juan/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.1.aar/2c1a45559840ca372fee85f04e14f195/AndroidManifest.xml:20:5-44
+MERGED from [com.github.GrenderG:Toasty:1.2.8] /home/juan/.gradle/caches/transforms-1/files-1.1/Toasty-1.2.8.aar/6238e375c65e9ffd04a9608a179a26b7/AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.GrenderG:Toasty:1.2.8] /home/juan/.gradle/caches/transforms-1/files-1.1/Toasty-1.2.8.aar/6238e375c65e9ffd04a9608a179a26b7/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/juan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/f6fa28e20105e00ea146f1845f2abd30/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/juan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/f6fa28e20105e00ea146f1845f2abd30/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/juan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/15e1f0a5aac4a4389c1d1d230cda2f6d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/juan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/15e1f0a5aac4a4389c1d1d230cda2f6d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.0.2] /home/juan/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/bfd70acabbc8f729dcf5911773e3d274/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /home/juan/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/bfd70acabbc8f729dcf5911773e3d274/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/juan/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/08fb5a9ecc2bf3ea774fa3db872f1928/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/juan/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/08fb5a9ecc2bf3ea774fa3db872f1928/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/juan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/e521ef2d74cc33aa547ae0737804da3a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/juan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/e521ef2d74cc33aa547ae0737804da3a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/juan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/5450ded6f56ad8c1810cfa8b1f761cd3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/juan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/5450ded6f56ad8c1810cfa8b1f761cd3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/juan/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/207867c50d84bf160f6229e2ce5801f0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/juan/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/207867c50d84bf160f6229e2ce5801f0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /home/juan/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/ce54e02b8c06a2deca2eb8985163b75b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /home/juan/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/ce54e02b8c06a2deca2eb8985163b75b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/juan/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/9bfb13a67b694e96ffe159f37883372f/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/juan/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/9bfb13a67b694e96ffe159f37883372f/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/juan/AndroidStudioProjects/SinkEmAll/app/src/main/AndroidManifest.xml
+INJECTED from /home/juan/AndroidStudioProjects/SinkEmAll/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/juan/AndroidStudioProjects/SinkEmAll/app/src/main/AndroidManifest.xml
+		ADDED from /home/juan/AndroidStudioProjects/SinkEmAll/app/src/main/AndroidManifest.xml
+		INJECTED from /home/juan/AndroidStudioProjects/SinkEmAll/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/juan/AndroidStudioProjects/SinkEmAll/app/src/main/AndroidManifest.xml
+		ADDED from /home/juan/AndroidStudioProjects/SinkEmAll/app/src/main/AndroidManifest.xml
+		INJECTED from /home/juan/AndroidStudioProjects/SinkEmAll/app/src/main/AndroidManifest.xml

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+        <item>
+                <shape android:shape="ring" android:innerRadiusRatio="5" android:visible="true" android:thickness="3dp" android:tint="@color/colorAccent" android:useLevel="false">
+                        <gradient android:angle="90" android:centerColor="@color/colorAccent" android:startColor="@color/black" android:endColor="@color/white" android:type="sweep"/>
+                        <padding android:bottom="25dp" android:left="10dp" android:right="10dp" android:top="25dp"/>
+                </shape>
+        </item>
+        <item >
+                <shape android:shape="line" android:visible="false" android:useLevel="false">
+                        <stroke android:color="@color/colorAccent" android:width="3dp" android:dashWidth="10dp" android:dashGap="5dp"/>
+                </shape>
+        </item>
+        <item>
+                <rotate android:fromDegrees="90">
+                <shape android:shape="line" android:visible="false" android:useLevel="false">
+                        <stroke android:color="@color/colorAccent" android:width="3dp" android:dashWidth="10dp" android:dashGap="5dp"/>
+                </shape>
+                </rotate>
+        </item>
+</layer-list>

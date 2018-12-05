@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/animation_list" android:oneshot="true">
+    <item android:drawable="@drawable/ship_1" android:duration="1000"/>
+    <item android:drawable="@drawable/ship_2" android:duration="1000"/>
+    <item android:drawable="@drawable/ship_3" android:duration="1000"/>
+    <item android:drawable="@drawable/ship_4" android:duration="1000"/>
+    <item android:drawable="@drawable/ship_5" android:duration="1000"/>
+    <item android:drawable="@drawable/ship_6" android:duration="1000"/>
+    <item android:drawable="@drawable/ship_7" android:duration="1000"/>
+    <item android:drawable="@drawable/ship_8" android:duration="1000"/>
+</animation-list>
+

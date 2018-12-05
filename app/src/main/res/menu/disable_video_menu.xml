@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/about_item"
+        android:title="@string/about_menu_string" />
+    <item android:id="@+id/disable_audio"
+        android:title="@string/disable_audio_string"
+        android:checkable="true"/>
+    <item android:id="@+id/disable_video"
+        android:checkable="true"
+        android:title="@string/disable_video_string"/>
+</menu>
